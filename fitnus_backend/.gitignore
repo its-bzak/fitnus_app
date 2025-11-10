@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Django stuff
+*.log
+db.sqlite3
+staticfiles/
+media/
+
+# Mac / system files
+.DS_Store
+
+# IDE settings
+.idea/
+.vscode/
+
+# Environment variables
+*.env
+.env.local
+
+# Byte-compiled / package files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Pytest / coverage
+.coverage
+.pytest_cache/
+htmlcov/
